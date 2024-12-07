@@ -1,6 +1,6 @@
 # Kunal Anand
 
-Welcome to my GitHub profile! I'm Kunal Anand, a passionate and dedicated Data Science student at Rashtrakavi Ramdhari Singh Dinkar College of Engineering. I'm always eager to explore new technologies, work on innovative projects, and contribute to the tech community.
+Greetings! I'm Kunal Anand, a passionate and dedicated Data Science student at Rashtrakavi Ramdhari Singh Dinkar College of Engineering. I'm always eager to explore new technologies, work on innovative projects, and contribute to the tech community.
 
 ## About Me
 
@@ -32,7 +32,6 @@ Here are a few projects I’ve worked on:
 ## Connect with Me
 
 - LinkedIn: [www.linkedin.com/in/kunal-anand-entertainingwar110](https://www.linkedin.com/in/kunal-anand-entertainingwar110)
-- Email: [your-email@example.com](mailto:your-email@example.com) (Optional)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
 
