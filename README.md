@@ -1,37 +1,64 @@
-# Kunal Anand
+👋 Kunal Anand
+🚀 Data Science & AI Enthusiast | Builder of Real-World Tools | Hackathon Finalist
+🎓 B.Tech in Data Science @ RRSDEC (2023–2027)
+🔍 Focus: AI/ML Projects for Developer Productivity, Cybersecurity, and Healthcare
 
-Greetings! I'm Kunal Anand, a passionate and dedicated Data Science student at Rashtrakavi Ramdhari Singh Dinkar College of Engineering. I'm always eager to explore new technologies, work on innovative projects, and contribute to the tech community.
+👨‍💻 About Me
+I’m a hands-on, project-driven engineering student who learns by building and breaking things. My core focus is building impactful AI tools that solve real-world problems. I follow industry-aligned workflows—beyond Jupyter Notebooks—and aim to create scalable, deployable, and intelligent applications.
 
-## About Me
+💡 Languages: Python, C++, Java, SQL, HTML/CSS/JS
 
-- 🎓 Currently pursuing a B.Tech in Data Science (2023-2027)
-- 💻 Skilled in C++, Java, Python, HTML, CSS, JavaScript, MySQL, Git, and GitHub
-- 🔧 Familiar with tools like Jupyter Notebook, NumPy, Pandas, and Matplotlib
-- 🏆 Leadership experience as a team leader in several hackathons and competitions, including Smart India Hackathon and Reimagine Hackathon
+🔧 Tools & Frameworks: Jupyter, Pandas, NumPy, Scikit-Learn, Streamlit, Tkinter, Git, REST APIs
 
-## Projects
+🤖 Interests: AI x Cybersecurity, Healthcare AI, LLMs, Automation, MLOps
 
-Here are a few projects I’ve worked on:
+🚀 Featured Projects
+🔧 Jupyter Workflow Automation v1.0
+A smart desktop GUI app to streamline Jupyter usage:
 
-- **[Emotion Detection System](#)**: An AI-driven real-time emotion detection system using CCTV and audio inputs that provides actionable insights for counselors. Aimed at improving mental health monitoring in classrooms and other settings.
-- **[Bihar Engineering College Website](#)**: A platform for students to access PYQs, notes, and placement questions.
-- **[Rolls Royce Website Clone](#)**: A visually improved clone of the Rolls Royce website focusing on UI enhancements.
+Launch Jupyter Notebook/Lab from saved folders
 
-## Achievements
+Summarize notebooks with HuggingFace models
 
-- 1st Prize in district-level **Yuva Kriti competition**
-- Participated in the **Smart India Hackathon 2024** and **Reimagine Hackathon**
-- Leadership role in organizing web development workshops for juniors
+GitHub repo integration and requirements.txt compatibility checks
 
-## Certifications
+Future: v2.0 with version tracking, diagnostics, and AI-enhanced interface
 
-- Java (Basic) - Hackerrank
-- JavaScript (Basic) - Hackerrank
-- Problem Solving (Basic) - Hackerrank
+🧠 Real-Time Emotion Detection (Hackathon Prototype)
+AI system using video & audio feeds to detect emotions in real-time:
 
-## Connect with Me
+Built using OpenCV, facial emotion models, and sound classification
 
-- LinkedIn: [www.linkedin.com/in/kunal-anand-entertainingwar110](https://www.linkedin.com/in/kunal-anand-entertainingwar110)
+Designed for classroom mental health monitoring
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
+Provides actionable alerts for counselors and admins
 
+🔍 Malicious Domain Detection (Coming Soon)
+Currently designing a pipeline-based ML system to:
+
+Detect and classify malicious IPs/domains using DNS, WHOIS, and threat feeds
+
+Use explainable ML models (XGBoost, Random Forest)
+
+Build deployable API endpoints with integrated dashboards
+
+🏆 Achievements
+🥇 1st Prize – Yuva Kriti District-Level Project Showcase
+
+🧠 Finalist – Smart India Hackathon 2024 and Reimagine Hackathon
+
+🧑‍🏫 Led multiple internal tech workshops for peers on web and automation tools
+
+📜 Certifications
+✅ Java (Basic) – HackerRank
+
+✅ JavaScript (Basic) – HackerRank
+
+✅ Problem Solving (Basic) – HackerRank
+
+🔗 Let’s Connect
+💼 LinkedIn: linkedin.com/in/kunal-anand-entertainingwar110
+
+💻 GitHub: github.com/kunal639
+
+📫 DM me to collaborate on ML projects, developer tools, or open-source contributions
