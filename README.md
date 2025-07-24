@@ -1,6 +1,6 @@
 # 👋 Kunal Anand
 
-🚀 Data Science & AI Enthusiast | Builder of Real-World Tools | Hackathon Finalist  
+🚀 Data Science & AI Enthusiast | Builder of Real-World Tools   
 🎓 B.Tech in Data Science @ RRSDEC (2023–2027)  
 🔍 Focus: AI/ML Projects for Developer Productivity, Cybersecurity, and Healthcare
 
@@ -31,7 +31,7 @@ AI system using video & audio feeds to detect emotions in real-time:
 - Designed for classroom mental health monitoring
 - Provides actionable alerts for counselors and admins
 
-### 🔍 Malicious Domain Detection (Coming Soon)  
+### 🔍 Malicious Domain Detection  
 Currently designing a pipeline-based ML system to:
 - Detect and classify malicious IPs/domains using DNS, WHOIS, and threat feeds
 - Use explainable ML models (XGBoost, Random Forest)
@@ -42,7 +42,6 @@ Currently designing a pipeline-based ML system to:
 ## 🏆 Achievements
 
 - 🥇 **1st Prize** – *Yuva Kriti District-Level Project Showcase*
-- 🧠 **Finalist** – *Smart India Hackathon 2024* and *Reimagine Hackathon*
 - 🧑‍🏫 Led multiple internal tech workshops for peers on web and automation tools
 
 ---
