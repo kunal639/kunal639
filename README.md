@@ -1,5 +1,4 @@
 # 👋 Kunal Anand
-<div><a href="https://cloud.layer5.io/user/41e16bb7-9689-4e66-8015-ddbb6dfd1eb1?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 🚀 Data Science & AI Enthusiast | Builder of Real-World Tools   
 🎓 B.Tech in Data Science @ RRSDEC (2023–2027)  
 🔍 Focus: AI/ML Projects for Developer Productivity, Cybersecurity, and Healthcare
@@ -43,7 +42,7 @@ Currently designing a pipeline-based ML system to:
 
 - 🥇 **1st Prize** – *Yuva Kriti District-Level Project Showcase*
 - 🧑‍🏫 Led multiple internal tech workshops for peers on web and automation tools
-
+<div><a href="https://cloud.layer5.io/user/41e16bb7-9689-4e66-8015-ddbb6dfd1eb1?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 ---
 
 ## 📜 Certifications
