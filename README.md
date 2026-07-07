@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kunal-anand-entertainingwar110">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="kunal.anand639@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/kunal639">
@@ -75,7 +75,7 @@
 
 ### 🚀 Featured Projects
 
-#### ⭐ [ObserverModel — AI Runtime Observability Platform](https://github.com/kunal639/ObserverModel-AIRuntimeIntelligence)
+#### ⭐ [ObserverModel — AI Runtime Observability Platform](https://github.com/kunal639/observermodel)
 A telemetry pipeline that ingests AI agent session logs, detects behavioral anomalies, and runs Gemini-powered root-cause analysis — surfacing engineering insights on an interactive dashboard.
 - Runtime telemetry parsing & normalization across AI agent sessions
 - Deterministic anomaly detection + Gemini-based root-cause analysis
@@ -118,8 +118,8 @@ Designed and shipped secure, scalable APIs for a production system.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunal639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal639&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kunal639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kunal639&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
