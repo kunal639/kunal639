@@ -75,7 +75,7 @@
 
 ### 🚀 Featured Projects
 
-#### ⭐ [ObserverModel — AI Runtime Observability Platform](https://github.com/kunal639/observermodel)
+#### ⭐ [ObserverModel — AI Runtime Observability Platform](https://github.com/kunal639/ObserverModel-AIRuntimeIntelligence)
 A telemetry pipeline that ingests AI agent session logs, detects behavioral anomalies, and runs Gemini-powered root-cause analysis — surfacing engineering insights on an interactive dashboard.
 - Runtime telemetry parsing & normalization across AI agent sessions
 - Deterministic anomaly detection + Gemini-based root-cause analysis
