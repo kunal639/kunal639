@@ -12,11 +12,11 @@
 
 ### 🎯 About Me
 
-I'm a B.Tech Data Science student (RRSDEC, 2023–2027) who learns by shipping. I care about the gap between a Jupyter notebook that works on my machine and a system that runs in production — clean pipelines, deployable APIs, and interfaces people can actually use. Currently exploring the intersection of **AI + Cybersecurity** and **AI + Healthcare**.
+I'm a Data Science undergraduate (RRSDEC, 2023–2027) with a strong interest in backend engineering and applied AI. I enjoy building intelligent backend systems that solve real engineering problems by combining AI with scalable software design — AI runtime intelligence, cloud-native applications, developer tools, and production-oriented backend architecture. Through internships, hackathons, and personal projects, I've built end-to-end systems using **FastAPI**, **PostgreSQL**, **Google Cloud**, and modern AI technologies. I'm continuously exploring system design, distributed systems, and AI infrastructure, with an emphasis on reliability, observability, and practical deployment.
 
-- 🔭 Currently building: an explainable ML pipeline for malicious domain detection
-- 🌱 Currently learning: MLOps and LLM-based automation
-- 💬 Ask me about: developer tooling, applied ML, or turning research into working prototypes
+- 🔭 Currently building: an AI runtime observability platform for agentic coding sessions
+- 🌱 Currently learning: distributed systems and cloud-native AI infrastructure
+- 💬 Ask me about: backend architecture, AI observability, or turning research into deployable systems
 - 📫 Open to: internships, research collaborations, and open-source contributions
 
 ---
@@ -40,11 +40,19 @@ I'm a B.Tech Data Science student (RRSDEC, 2023–2027) who learns by shipping. 
 <img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
 </p>
 
+**Backend & Cloud**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+</p>
+
 **Tools**
 <p>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
